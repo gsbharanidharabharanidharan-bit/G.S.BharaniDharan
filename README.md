@@ -12,13 +12,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/cyber-shield-3d.svg" alt="Cyber Defense Shield" width="360"/>
-</div>
 
-<p align="center">
-  <em>🔵 Radar sweep animation active — scanning for threats 24/7 🔵</em>
-</p>
 
 ---
 
